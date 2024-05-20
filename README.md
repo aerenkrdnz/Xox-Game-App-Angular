@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![Ekran Alıntısı](https://github.com/aerenkrdnz/Xox-Game-App-Angular/assets/151842601/8de84c5b-cf95-4c60-b993-9db3dbdad459)
+![Ekran Alıntısı2](https://github.com/aerenkrdnz/Xox-Game-App-Angular/assets/151842601/b17b6ad0-e89d-4a9f-bff4-64f42fa5ee57)
